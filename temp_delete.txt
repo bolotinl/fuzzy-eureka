@@ -1,0 +1,17 @@
+s is text
+q
+exit
+
+
+
+
+
+
+
+
+
+
+w
+:wq
+ZZ
+
